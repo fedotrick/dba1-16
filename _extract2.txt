@@ -1,0 +1,123 @@
+
+================================================================================
+FILE: dba1_00_introduction.html (1134151 chars)
+================================================================================
+
+--- Page 1 (id=pf1) ---
+  [image-based page, 1 images]
+
+--- Page 2 (id=pf2) ---
+  SQL
+  DBA1
+  DBA2
+  DBA3
+  PGPRO
+
+--- Page 3 (id=pf3) ---
+  DEV1
+  DEV2
+  QPTPGPRO
+
+--- Page 4 (id=pf4) ---
+  [image-based page, 1 images]
+
+--- Page 5 (id=pf5) ---
+  [link] https://postgrespro.ru/education/courses/DBA1
+
+--- Page 6 (id=pf6) ---
+  [image-based page, 1 images]
+
+--- Page 7 (id=pf7) ---
+  [image-based page, 1 images]
+
+--- Page 8 (id=pf8) ---
+  [image-based page, 1 images]
+
+
+================================================================================
+FILE: dba1_01_tools_install.html (1397569 chars)
+================================================================================
+
+--- Page 1 (id=pf1) ---
+  [image-based page, 1 images]
+
+--- Page 2 (id=pf2) ---
+  [image-based page, 1 images]
+
+--- Page 3 (id=pf3) ---
+  систем
+  .
+  сервером
+  .
+  кластером баз
+
+--- Page 4 (id=pf4) ---
+  [link] https://www.postgresql.org/ftp/source
+
+--- Page 5 (id=pf5) ---
+  [link] https://postgrespro.ru/docs/postgresql/16/install-make
+  [link] https://postgrespro.ru/docs/postgresql/16/install-meson
+
+--- Page 6 (id=pf6) ---
+  [no text found]
+
+--- Page 7 (id=pf7) ---
+  -k
+
+--- Page 8 (id=pf8) ---
+  [no text found]
+
+--- Page 9 (id=pf9) ---
+  [link] https://postgrespro.ru/docs/postgresql/16/app-pg-ctl
+  [link] https://postgrespro.ru/docs/postgresql/16/runtime
+
+--- Page 10 (id=pf10) ---
+  [image-based page, 1 images]
+
+--- Page 11 (id=pf11) ---
+  [image-based page, 1 images]
+
+--- Page 12 (id=pf12) ---
+  [link] https://postgrespro.ru/docs/postgresql/16/app-pgchecksums
+
+--- Page 13 (id=pf13) ---
+  [image-based page, 1 images]
+
+
+================================================================================
+FILE: dba1_02_tools_psql.html (1245229 chars)
+================================================================================
+
+--- Page 1 (id=pf1) ---
+  [image-based page, 1 images]
+
+--- Page 2 (id=pf2) ---
+  [image-based page, 1 images]
+
+--- Page 3 (id=pf3) ---
+  [link] https://postgrespro.ru/docs/postgresql/16/app-psql
+
+--- Page 4 (id=pf4) ---
+  базаузелпорт
+  — соединение через Unix socket;
+  — обычно 5432.
+
+--- Page 5 (id=pf5) ---
+  manpsql
+  \?
+  \q
+
+--- Page 6 (id=pf6) ---
+  [no text found]
+
+--- Page 7 (id=pf7) ---
+  [image-based page, 1 images]
+
+--- Page 8 (id=pf8) ---
+  less»
+  .
+  \?
+
+--- Page 9 (id=pf9) ---
+  [link] https://postgrespro.ru/docs/postgresql/16/sql-savepoint
+

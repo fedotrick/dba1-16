@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-pgblue: #336791;
+  --color-pgblue-dark: #274e6f;
+  --color-pgblue-light: #4a86b3;
+}
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 antialiased;
+  }
+}
+
+.markdown h1 { @apply text-3xl font-bold mb-6 text-slate-800 border-b pb-2; }
+.markdown h2 { @apply text-2xl font-semibold mt-8 mb-4 text-slate-800; }
+.markdown h3 { @apply text-xl font-medium mt-6 mb-3 text-slate-700; }
+.markdown p { @apply mb-4 leading-relaxed; }
+.markdown ul { @apply list-disc ml-6 mb-4; }
+.markdown ol { @apply list-decimal ml-6 mb-4; }
+.markdown code { @apply bg-slate-200 px-1 rounded font-mono text-sm; }
+.markdown pre { @apply bg-slate-800 text-slate-100 p-4 rounded-lg overflow-x-auto mb-4 font-mono text-sm; }
+.markdown table { @apply w-full border-collapse mb-6; }
+.markdown th, .markdown td { @apply border border-slate-300 p-2 text-left; }
+.markdown th { @apply bg-slate-100 font-semibold; }
+.markdown blockquote { @apply border-l-4 border-pgblue pl-4 italic my-4 text-slate-600 bg-pgblue/5 py-2; }

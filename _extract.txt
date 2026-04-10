@@ -1,0 +1,192 @@
+=== dba1_00_introduction.html (1134151 chars) ===
+
+--- Page 2 ---
+  SQL
+  DBA1
+  DBA2
+  DBA3
+  PGPRO
+
+--- Page 3 ---
+  DEV1
+  DEV2
+  QPTPGPRO
+
+
+=== dba1_01_tools_install.html (1397569 chars) ===
+
+--- Page 3 ---
+  систем
+  .
+  сервером
+  .
+  кластером баз
+
+--- Page 7 ---
+  -k
+
+
+=== dba1_02_tools_psql.html (1245229 chars) ===
+
+--- Page 4 ---
+  базаузелпорт
+  — соединение через Unix socket;
+  — обычно 5432.
+
+--- Page 5 ---
+  manpsql
+  \?
+  \q
+
+--- Page 8 ---
+  less»
+  .
+  \?
+
+
+=== dba1_03_tools_configuration.html (1297885 chars) ===
+
+--- Page 6 ---
+  параметр
+  postgresql.conf
+
+--- Page 8 ---
+  PostgreSQL
+
+
+=== dba1_04_arch_general.html (1447784 chars) ===
+
+--- Page 3 ---
+  протокол
+  драйвер,
+
+--- Page 4 ---
+  PostgreSQL
+  транзакцией
+
+--- Page 6 ---
+  правила
+  статистика
+  данные
+  мета-, она
+  переписываться
+  правил.
+  план выполнения
+  .
+
+--- Page 7 ---
+  расширенный режим
+  запрос — заранее выполнить разбор и переписывание
+  привязка
+
+--- Page 9 ---
+  PostgreSQL
+  курсоры
+  порталом
+
+--- Page 10 ---
+  общ
+
+
+=== dba1_05_arch_mvcc_overview.html (1304954 chars) ===
+
+--- Page 3 ---
+  —
+
+--- Page 4 ---
+  .
+
+--- Page 7 ---
+  .
+
+
+=== dba1_06_arch_vacuum_overview.html (1390092 chars) ===
+
+--- Page 8 ---
+  track_counts
+
+--- Page 11 ---
+  autovacuum
+  и
+  . Подробнее о функциях для
+  autovacuum
+
+
+=== dba1_07_arch_wal_overview.html (1341140 chars) ===
+
+--- Page 4 ---
+  вытеснение
+
+--- Page 6 ---
+  журналом предзаписи
+  (такие
+
+
+=== dba1_08_data_databases.html (1356909 chars) ===
+
+--- Page 3 ---
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+
+--- Page 6 ---
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  $ psql -d appdb
+  SELECT * FROM app.t;
+
+--- Page 9 ---
+  . Системный
+
+
+=== dba1_09_data_catalog.html (1228364 chars) ===
+
+--- Page 3 ---
+  pg_catalog
+  SELECT
+  CREATEDROP
+
+--- Page 4 ---
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+  таблица
+
+--- Page 7 ---
+  oid
+  oid
+  regclass
+  oid
+
+

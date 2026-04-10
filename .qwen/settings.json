@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where *)",
+      "Bash(pip install *)"
+    ]
+  },
+  "$version": 3
+}
